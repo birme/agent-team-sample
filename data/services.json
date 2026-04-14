@@ -1,0 +1,40 @@
+{
+  "services": [
+    {
+      "name": "catalog-manager",
+      "status": "healthy",
+      "version": "6.32.0",
+      "uptime": "14d 3h",
+      "requests_24h": 45230
+    },
+    {
+      "name": "deploy-manager",
+      "status": "healthy",
+      "version": "5.18.2",
+      "uptime": "14d 3h",
+      "requests_24h": 12840
+    },
+    {
+      "name": "money-manager",
+      "status": "healthy",
+      "version": "4.9.1",
+      "uptime": "7d 12h",
+      "requests_24h": 8920
+    },
+    {
+      "name": "ai-manager",
+      "status": "degraded",
+      "version": "6.31.0",
+      "uptime": "2d 6h",
+      "requests_24h": 67100
+    },
+    {
+      "name": "token-service",
+      "status": "healthy",
+      "version": "3.5.0",
+      "uptime": "14d 3h",
+      "requests_24h": 31500
+    }
+  ],
+  "generated": "2026-04-14T08:00:00Z"
+}

@@ -1,0 +1,24 @@
+{
+  "period": "2026-04-14",
+  "tenants": {
+    "active": 142,
+    "new_today": 3,
+    "churned_today": 0
+  },
+  "instances": {
+    "running": 487,
+    "suspended": 23,
+    "failed": 2
+  },
+  "tokens": {
+    "consumed_today": 184500,
+    "avg_per_tenant": 1299
+  },
+  "top_services": [
+    { "id": "apache-couchdb", "instances": 45 },
+    { "id": "birme-osc-postgresql", "instances": 38 },
+    { "id": "valkey-io-valkey", "instances": 31 },
+    { "id": "eyevinn-docker-wrtc-sfu", "instances": 22 },
+    { "id": "minio-minio", "instances": 19 }
+  ]
+}
